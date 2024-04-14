@@ -42,7 +42,7 @@
                       <Icon name="ExternalLink" class="h-4 w-4 stroke-2 shrink-0 ml-auto text-neutral-400 dark:text-neutral-500"/>
                     </a>
                   </li>
-                  <li><hr class="border-t border-neutral-150 dark:border-neutral-750 my-1"/></li>
+                 
    
                   <li><hr class="border-t border-neutral-150 dark:border-neutral-750 my-1"/></li>
                   <li><div class="font-medium text-xs pb-1 px-3 text-neutral-400 dark:text-neutral-500">Branches</div></li>
