@@ -99,7 +99,7 @@
           <!-- User profile (includig logout, theme and about) -->
           <div class="flex grid-x-3 max-w-full mt-auto border-t border-neutral-200 dark:border-neutral-750 px-3 py-2.5 lg:px-4 lg:py-3">
             <User/>
-            <About/>
+               /*-- <About/> */
           </div>
         </div>
       </div>
