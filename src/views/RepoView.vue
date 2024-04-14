@@ -43,7 +43,7 @@
                     </a>
                   </li>
                   <li><hr class="border-t border-neutral-150 dark:border-neutral-750 my-1"/></li>
-                  <li><button @click.prevent="repoMenuModal.openModal(); isSidebarActive = false;" class="link w-full">Change repository</button></li>
+   
                   <li><hr class="border-t border-neutral-150 dark:border-neutral-750 my-1"/></li>
                   <li><div class="font-medium text-xs pb-1 px-3 text-neutral-400 dark:text-neutral-500">Branches</div></li>
                   <li v-if="branches.length">
